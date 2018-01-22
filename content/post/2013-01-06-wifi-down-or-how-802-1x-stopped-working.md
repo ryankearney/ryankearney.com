@@ -3,6 +3,7 @@ title = "WiFi Down (Or how 802.1x stopped working)"
 date = 2013-01-06T23:48:22Z
 categories = ["Cisco"]
 tags = [ "802.1x", "AAA", "ACS", "Certificate", "PEAP", "RADIUS", "WLC" ]
+url = "/2013/01/wifi-down-or-how-802-1x-stopped-working"
 +++
 Around this time last a year 802.1x was configured on our wireless network. Everything worked fine for the most part until this morning. All wireless devices on the SSID configured for 802.1x were failing to connect. Non 802.1x SSID's were fine, so it wasn't an issue with the wireless access point being down. Additionally the network was being broadcast across multiple physical locations in different states and they all seemed to be down. Since no changes were made to the Cisco Wireless LAN Controller it must be an issue outside of the individual access points.
 
