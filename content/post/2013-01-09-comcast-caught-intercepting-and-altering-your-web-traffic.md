@@ -4,6 +4,7 @@ date = 2013-01-09T17:19:55Z
 description = "Comcast is hijacking subscriber web browsing traffic in order to display intrusive notifications"
 categories = ["Security"]
 tags = [ "Comcast", "HTTP", "Internet", "MITM"]
+url = "/2013/01/comcast-caught-intercepting-and-altering-your-web-traffic"
 +++
 On November 20th, 2012 Comcast hijacked my HTTP traffic and re-routed it through their own servers, injecting a "notice" on the page before completing the request. What this means is instead of my web request being routed to the website I wanted to visit, Comcast took it upon themselves to hijack my web traffic, forcing it to go through their servers instead. This poses a massive security risk for users since there's no telling what type of logging Comcast uses on their end. Why did they do all this? To force a "courtesy notice" on every webpage I visit until I logged into my Comcast account because I was within 90% of my new 300GB limit?
 
