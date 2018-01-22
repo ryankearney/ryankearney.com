@@ -15,9 +15,12 @@ verboseLog = true
  post = "/:year/:month/:title/"
 
 [params]
-description = ""
-author = "Ryan Kearney"
-powered_by = false
+ description = ""
+ author = "Ryan Kearney"
+ powered_by = false
+
+[params.seo]
+  disable_bpg = true
 
 
 [[menu.main]]
