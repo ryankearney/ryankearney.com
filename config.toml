@@ -2,3 +2,17 @@ baseURL = "https://blog.ryankearney.com/"
 languageCode = "en-us"
 title = "Ryan Kearney"
 theme = "after-dark"
+
+enableRobotsTXT = true
+disqusShortname = "ryankearney"
+
+footnoteReturnLinkContents = "↩"
+
+[permalinks]
+ post = "/:year/:month/:title/"
+
+[params]
+description = ""
+author = "Ryan Kearney"
+powered_by = false
+
