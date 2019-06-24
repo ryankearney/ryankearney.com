@@ -3,7 +3,7 @@ enableEmoji = true
 footnoteReturnLinkContents = "↩"
 languageCode = "en-us"
 title = "Ryan Kearney"
-theme = "after-dark"
+theme = "hello-friend-ng"
 
 enableRobotsTXT = true
 disqusShortname = "ryankearney"
@@ -15,9 +15,13 @@ verboseLog = true
  post = "/:year/:month/:title/"
 
 [params]
- description = ""
+ description = "Test"
  author = "Ryan Kearney"
  powered_by = false
+ dateform        = "Jan 2, 2006"
+ dateformShort   = "Jan 2"
+ dateformNum     = "2006-01-02"
+ dateformNumTime = "2006-01-02 15:04 -0700"
 
 [params.seo]
   disable_bpg = true
@@ -32,4 +36,4 @@ verboseLog = true
   name = "Blog"
   weight = 2
   identifier = "blog"
-  url = "/"
+  url = "/posts"

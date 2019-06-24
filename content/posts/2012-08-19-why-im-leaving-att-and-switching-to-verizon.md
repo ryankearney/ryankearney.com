@@ -8,7 +8,7 @@ dsq_thread_id:
 guid: http://blog.ryankearney.com/?p=19
 id: 19
 image: /wp-content/uploads/2012/08/Screen-Shot-2012-08-19-at-5.15.38-PM.png
-title: Why I&#8217;m leaving AT&#038;T and switching to Verizon
+title: Why I'm leaving AT&T and switching to Verizon
 url: /2012/08/why-im-leaving-att-and-switching-to-verizon/
 ---
 
